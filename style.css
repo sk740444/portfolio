@@ -717,7 +717,7 @@ transform: translate(-50%);
 
   .menu-btn{
     position: absolute;
-    background: url(images/menu.png)no-repeat;
+    background: url(menu.png)no-repeat;
     background-size: 30px;
     background-position: center;
     width: 40px;
@@ -730,7 +730,7 @@ transform: translate(-50%);
 
   .menu-btn.active{
     z-index: 999;
-    background: url(images/close.png)no-repeat;
+    background: url(close.png)no-repeat;
     background-size: 25px;
     background-position: center;
     transition: 0.3s ease;
