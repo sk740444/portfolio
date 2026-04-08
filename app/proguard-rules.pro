@@ -1,0 +1,3 @@
+-keep class com.securecam.domain.model.** { *; }
+-keep class com.securecam.data.report.** { *; }
+-dontwarn org.bouncycastle.**
